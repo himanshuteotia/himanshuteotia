@@ -76,7 +76,7 @@ A seasoned **Node.js Developer** with 9+ years of experience crafting scalable, 
   <h3>💼 Open to exciting opportunities and collaborations!</h3>
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+![Snake animation](https://github.com/himanshuteotia/himanshuteotia/blob/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
