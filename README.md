@@ -76,7 +76,11 @@ A seasoned **Node.js Developer** with 9+ years of experience crafting scalable, 
   <h3>💼 Open to exciting opportunities and collaborations!</h3>
 </div>
 
-![Snake animation](https://github.com/himanshuteotia/himanshuteotia/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshuteotia/himanshuteotia/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshuteotia/himanshuteotia/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/himanshuteotia/himanshuteotia/output/github-snake.svg" />
+</picture>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
