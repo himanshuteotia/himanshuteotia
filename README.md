@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-A seasoned **Node.js Developer** with 9+ years of experience crafting scalable, high-performance systems. I specialize in building AI-driven automation solutions and robust backend architectures, currently empowering one of the largest banking institutions in the Middle East.
+A seasoned **Node.js Developer** with 10+ years of experience crafting scalable, high-performance systems. I specialize in building AI-driven automation solutions and robust backend architectures, currently empowering one of the largest banking institutions in the Middle East.
 
 ### 💡 Core Expertise
 
